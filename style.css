@@ -1,0 +1,105 @@
+header {
+    background-color: blue;
+    margin: 0px;
+    color: white;
+    padding: .2em;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+.spacing-bar {
+    background-color: lightblue;
+    height: 3em;
+}
+
+.sidebar {
+    width: 20vw;
+
+}
+
+.sidebar-article {
+    font-size: 12px;
+}
+
+
+.sidebar-article-title {
+    font-size: 20px;
+    text-align: center;
+}
+
+.second-article-img {
+    height: 20%;
+    border-radius: 5px;
+    box-shadow: 2px 3px rgba(112, 95, 73, 0.534);
+
+}
+
+footer {
+    background-color: blue;
+    height: 10vh;
+    width: 100%;
+}
+
+
+
+/* utlis */
+
+
+
+.justify-center {
+    justify-content: center;
+}
+
+.testing-border-red {
+    border: 2px solid red;
+}
+
+.testing-border-green {
+    border: 2px solid green;
+}
+
+.testing-border-blue {
+    border: 2px solid blue;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: end;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.m-2 {
+    margin: 2em;
+}
+
+.ms-6 {
+    margin-left: 6em;
+    margin-right: 6em;
+}
+
+.p-2 {
+    padding: 2em;
+}
+
+.p-10 {
+    padding: 10em;
+}
+
+.ft-size-30 {
+    font-size: 30px;
+}
+
+.ft-size-50 {
+    font-size: 50px;
+}
